@@ -101,7 +101,6 @@ const deleteAccount = (req,res) =>{
     })
 }
 
-/// faire fonction mdp perdu modifier mdp modifier adresse mail
 
 
 export default {
